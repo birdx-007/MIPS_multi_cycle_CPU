@@ -17,7 +17,7 @@ test_cpu.v——仿真测试平台（testbench）文件
 
 multi_cycle.xdc——静态时序分析（STA）用约束文件
 
-InstructionMemory-2.v——指令存储器，储存了汇编程序-3的代码机器码（见附录）
+InstructionMemory-2.v——指令存储器，储存了汇编程序-2的代码机器码（见附录）
 
 InstructionMemory-3.v——指令存储器，储存了汇编程序-3的代码机器码（见附录）
 
